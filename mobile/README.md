@@ -9,9 +9,7 @@
 ## Screens
 
 <h4 align="center">
-  <img src="https://res.cloudinary.com/dmmewbzfi/image/upload/v1585242790/bethehero-splash_emqhie.png" alt="bethehero01">
-  <img src="https://res.cloudinary.com/dmmewbzfi/image/upload/v1585242677/bethehero-mobile01_l6rnma.jpg" alt="bethehero02">
-  <img src="https://res.cloudinary.com/dmmewbzfi/image/upload/v1585242677/bethehero-mobile02_ezl7iz.jpg" alt="bethehero03">
+  <img src="https://res.cloudinary.com/dmmewbzfi/image/upload/v1585244129/bethe-heromobile_dylj8j.jpg" alt="bethehero01">
 </h4>
 
 ## Technologies
