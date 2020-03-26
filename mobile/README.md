@@ -1,9 +1,9 @@
 <h1 align="center">
-    Be The Hero - WEB
+    Be The Hero - MOBILE
 </h1>
 
 <h4 align="center">
-  Web app made in React.js.
+  Mobile app made in React Native.
 </h4>
 
 ## Screens
@@ -20,9 +20,10 @@
 This project was developed with the following technologies:
 
 - [ReactJS](https://reactjs.org/)
-- [React Router](https://github.com/ReactTraining/react-router)
+- [React Native](https://reactnative.dev/)
+- [React Navigation](https://reactnavigation.org/)
 - [Axios](https://github.com/axios/axios)
-- [React-Icons](https://react-icons.netlify.com/)
+- [Expo](https://expo.io/)
 - [VS Code][vc]
 
 ## How To Use
@@ -31,10 +32,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/brenoricco/Be-The-Hero/tree/master/frontend
+$ git clone https://github.com/brenoricco/Be-The-Hero/tree/master/mobile
 
 # Go into the repository
-$ cd frontend
+$ cd mobile
 
 # Install dependencies
 $ yarn install
