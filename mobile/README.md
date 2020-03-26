@@ -9,10 +9,9 @@
 ## Screens
 
 <h4 align="center">
-  <img src="https://res.cloudinary.com/dmmewbzfi/image/upload/v1585241291/bethehero01_auvnjw.png" alt="bethehero01">
-  <img src="https://res.cloudinary.com/dmmewbzfi/image/upload/v1585241290/bethehero02_uiqbqo.png" alt="bethehero02">
-  <img src="https://res.cloudinary.com/dmmewbzfi/image/upload/v1585241290/be-the-hero04_ofwz46.png" alt="bethehero03">
-  <img src="https://res.cloudinary.com/dmmewbzfi/image/upload/v1585241290/bethehero03_u01a5f.png" alt="bethehero04">
+  <img src="https://res.cloudinary.com/dmmewbzfi/image/upload/v1585242790/bethehero-splash_emqhie.png" alt="bethehero01">
+  <img src="https://res.cloudinary.com/dmmewbzfi/image/upload/v1585242677/bethehero-mobile01_l6rnma.jpg" alt="bethehero02">
+  <img src="https://res.cloudinary.com/dmmewbzfi/image/upload/v1585242677/bethehero-mobile02_ezl7iz.jpg" alt="bethehero03">
 </h4>
 
 ## Technologies
