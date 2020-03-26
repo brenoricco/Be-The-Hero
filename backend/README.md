@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Api rest made in Node.js to serve web and mobile apps.
+  Api rest built with Node.js to serve Be The Hero web and mobile apps.
 </h4>
 
 ## Technologies

@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Web app made in React.js.
+  Web app built with React.js.
 </h4>
 
 ## Screens

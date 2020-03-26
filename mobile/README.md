@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Mobile app made in React Native.
+  Mobile app built with React Native.
 </h4>
 
 ## Screens
